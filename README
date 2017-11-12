@@ -1,0 +1,2 @@
+单独使用HookStorm框架在ART虚拟机上的hook效果不好，只能hook有限个方法，保留HookStorm的外部框架，将Hook的逻辑换为YAHFA的逻辑后发现能很好的hook。
+use HookStorm framework alone in the ART virtual machine hook effect is not good, only a limited number of methods can be hook,I keep the external framework of StormHook and replace the hook logic of StormHook with the logic of  YAHFA ,it works well.
